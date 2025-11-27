@@ -1,0 +1,54 @@
+
+{
+  "shapes": {
+    "chair": "furniture/Chair",
+    "sofa": "furniture/Sofa",
+    "table": "furniture/Table",
+    "sign": "furniture/Sign",
+
+    "tree1": "nature/Tree1",
+    "tree2": "nature/Tree2",
+    "tree3": "nature/Tree3",
+
+    "tachka": "vehicle/Tachka",
+    "skateboard": "vehicle/Skateboard",
+    "bike2": "vehicle/Bike2"
+  },
+  "colors": {
+    "gray": [87, 87, 87],
+    "red": [173, 35, 35],
+    "blue": [42, 75, 215],
+    "green": [29, 105, 20],
+    "brown": [129, 74, 25],
+    "purple": [129, 38, 192],
+    "cyan": [41, 208, 208],
+    "yellow": [255, 238, 51]
+  },
+  "materials": {
+    "rubber": "Rubber",
+    "metal": "MyMetal"
+  },
+  "shape_scales": {
+    "cube": 0.5,
+    "cylinder": 0.5,
+    "sphere": 0.5,
+    
+    "chair": 0.3,
+    "sofa": 1.5,
+    "table": 1.87,
+    "easel_stand": 3,
+
+    "tree1": 0.2,
+    "tree2": 0.2,
+    "tree3": 0.2,
+
+    "tachka": 1.5,
+    "skateboard": 2.0,
+    "sign": 2.2,
+    "bike2": 1.5
+  },
+  "sizes": {
+    "large": 0.7,
+    "small": 0.35
+  }
+}
