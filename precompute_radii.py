@@ -31,7 +31,7 @@ def parse_args():
   parser.add_argument('--properties_json', default='data/properties.json')
   parser.add_argument('--shape_dir', default='data/shapes')
   parser.add_argument('--output_radius_json', default='data/shape_radii.json')
-  parser.add_argument('--preview_dir', default='output/radius_previews')
+  parser.add_argument('--preview_dir', default='output_precomputeradius_previews')
   parser.add_argument('--render_width', type=int, default=640)
   parser.add_argument('--render_height', type=int, default=480)
   parser.add_argument('--use_gpu', type=int, default=0)
